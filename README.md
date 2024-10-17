@@ -3,7 +3,9 @@ Project for medical Named entity recognition
 ![image](https://github.com/user-attachments/assets/f1d06948-f933-4d91-805e-59914a2ca27f)
 
 
-sample prescription 
+# sample prescription 
+
+
 Patient Name: John Doe
 Date of Birth: 01/01/1980
 Date of Visit: 10/17/2024
