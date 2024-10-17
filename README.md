@@ -1,6 +1,17 @@
-# Named-entity-recognition
-Project for medical Named entity recognition
-![image](https://github.com/user-attachments/assets/f1d06948-f933-4d91-805e-59914a2ca27f)
+# Named Entity Recognition for Medical Text
+
+This project focuses on Named Entity Recognition (NER) specifically tailored for medical texts. It aims to identify and categorize key entities such as diseases, treatments, medications, and other relevant information from unstructured medical data.
+
+![Project Overview](https://github.com/user-attachments/assets/f1d06948-f933-4d91-805e-59914a2ca27f)
+
+## Features
+- High accuracy in recognizing medical entities
+- Support for various medical terminologies
+- Customizable models for specific use cases
+
+## Demo Links
+- **Demo 1:** [Clinical_ner](https://huggingface.co/spaces/Amit234/Clinical_ner)
+- **Demo 2:** [MedEntity_Explorer](https://huggingface.co/spaces/Amit234/MedEntity_Explorer)
 
 
 # sample prescription 
