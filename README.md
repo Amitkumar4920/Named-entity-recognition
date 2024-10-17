@@ -7,7 +7,6 @@ This project focuses on Named Entity Recognition (NER) specifically tailored for
 ## Features
 - High accuracy in recognizing medical entities
 - Support for various medical terminologies
-- Customizable models for specific use cases
 
 ## Demo Links
 - **Demo 1:** [Clinical_ner](https://huggingface.co/spaces/Amit234/Clinical_ner)
